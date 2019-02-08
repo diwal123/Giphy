@@ -13,7 +13,7 @@
       // giphyName store the data attribute data-name hich is the inputfield value plus string of array
         var giphyName = $(this).attr("data-name");
         var queryURL =
-          "http://api.giphy.com/v1/gifs/search?q=" +
+          "https://api.giphy.com/v1/gifs/search?q=" +
           giphyName +
           "&api_key=HuJ0lbbF6StTUNzb0z2q2EGONgkFhug4&limit=10";
         var image;
