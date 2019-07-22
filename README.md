@@ -20,6 +20,8 @@ The download feature, loadmore feature has been added to the application.
 
 The user can also favorite it.
 
+![] (assets/Capture.JPG)
+
 ###Technologies Used
 1. Giphy API
 2. HTML
